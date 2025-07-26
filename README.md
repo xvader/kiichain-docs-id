@@ -1,29 +1,29 @@
 ---
 description: >-
-  KIIEX is a hybrid centralized-decentralized exchange platform designed for
-  on-chain FX trading, cross-border payments and finance solutions.
+  KIIEX adalah platform pertukaran hibrida (tersentralisasi-terdesentralisasi) yang didesain untuk
+  perdagangan FX dalam jaringan, pembayaran lintas batas, dan beragam solusi layanan keuangan.
 ---
 
-# What is KIIEX?
+# Apa itu KIIEX?
 
-### What is KIIEX
+### Apa itu KIIEX
 
-KIIEX is an on-chain FX desk powering global payments, trading and finance solutions in an easy to use platform designed for everyone. Users, businesses or builders can use KIIEX by signing up for an account or connecting to APIs. KIIEX differs from other traditional platforms by its hybrid approach of sourcing liquidity and maintaining balances on-chain exposed to local currencies. KIIEX supports fiat swaps and payins/payouts via the pricing of local, non-dollar stablecoins and other tokenized real-world assets.&#x20;
+KIIEX adalah meja FX dalam jaringan yang mendukung pembayaran global, perdagangan, dan solusi keuangan dalam platform yang mudah digunakan dan dirancang untuk semua orang. Pengguna, bisnis, atau pengembang dapat menggunakan KIIEX dengan mendaftar akun atau terhubung ke API. KIIEX berbeda dari platform tradisional lainnya dengan pendekatan hibridanya dalam memperoleh likuiditas dan menjaga saldo on-chain yang terekspos ke mata uang lokal. KIIEX mendukung pertukaran fiat dan pembayaran/pencairan melalui penetapan harga stablecoin non-dolar lokal dan aset dunia nyata yang di-tokenisasi lainnya.
 
-### Hybrid Matching Engine
+### Mesin Pencocokan Hibrida
 
-At the core of KIIEX is a hybrid matching engine that is able to source on-chain liquidity across any blockchain ecosystem while using centralized pricing to hedge and rebalance on-chain positions. The result is a ultra-liquid layer that can operate 24/7 on certain pairs that only have liquidity during traditional business hours.&#x20;
+Inti dari KIIEX adalah mesin pencocokan hibrida yang mampu mendapatkan likuiditas on-chain di seluruh ekosistem blockchain mana pun sambil menggunakan harga terpusat untuk melakukan lindung nilai dan menyeimbangkan kembali posisi on-chain. Hasilnya adalah lapisan yang sangat likuid yang dapat beroperasi 24/7 pada pasangan tertentu yang hanya memiliki likuiditas selama jam kerja tradisional.
 
-### Ramps&#x20;
+### Jalur Masuk/Keluar (Ramps)
 
-KIIEX has a full suite of on and off ramps enabling instant payins and payouts from its system. These ramps are both UI and API enabled with the ability to disperse directly or to third-pary accounts while remaining 100% compliant.&#x20;
+KIIEX memiliki rangkaian lengkap jalur masuk (on-ramps) dan jalur keluar (off-ramps) yang memungkinkan pembayaran dan pencairan instan dari sistemnya. Jalur-jalur ini diaktifkan baik melalui UI maupun API dengan kemampuan untuk mendistribusikan secara langsung atau ke akun pihak ketiga sambil tetap 100% patuh.
 
-### Connect to APIs
+### Terhubung ke APIs
 
-KIIEX has developed a suite of APIs that embed all centralized and decentralized functionalities into a single set of APIs that any application can use. For more informaiton on the APIs, visit:
+KIIEX telah mengembangkan serangkaian API yang menyematkan semua fungsionalitas terpusat dan terdesentralisasi ke dalam satu set API yang dapat digunakan oleh aplikasi apa pun. Untuk informasi lebih lanjut tentang API, kunjungi:
 
 * [KIIEX APIs](https://docs.kiiglobal.io/docs/connect-to-kiiex/connect-to-kiiex-apis)
 
-### KYC / AML
+### KYC/AML
 
-KIIEX is fully compliant within each jurisdiction. Users must adhere to KYC and AML standards and requirements.&#x20;
+KIIEX sepenuhnya patuh dalam setiap yurisdiksi. Pengguna harus mematuhi standar dan persyaratan KYC dan AML.
